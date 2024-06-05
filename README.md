@@ -1,10 +1,10 @@
 # Projeto em JavaScript
 
-Este é um projeto JavaScript que visa [descreva brevemente o propósito do projeto].
+Este é um projeto JavaScript que visa estudar o funcionamento de temas e cores de um site.
 
 ## Funcionalidades
 
-- [Liste aqui as principais funcionalidades do projeto]
+- Mudança de tema 
 
 ## Tecnologias Utilizadas
 
